@@ -4,3 +4,4 @@
 
 * Querying MongoDB from .Net 5 (Catalog.API)
 
+* Running MongoDB on Docker 
