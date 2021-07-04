@@ -2,6 +2,12 @@
 
 * Microservices Architecture
 
-* Querying MongoDB from .Net 5 (Catalog.API)
+* Repository Design Pattern
 
-* Running MongoDB on Docker 
+* .Net 5 (Catalog.API) works with MongoDB
+
+* MongoDB is Running on Docker 
+
+* .Net 5 (Basket.API) works with Redis
+
+* Redis is Running on Docker
